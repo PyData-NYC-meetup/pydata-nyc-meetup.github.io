@@ -1,0 +1,26 @@
+---
+title: "PyDataNYC"
+---
+
+### Welcome to the PyData NYC Meetup website!
+[![](assets/pydata2022_conf.jpg){width=70% fig-align="center"}]("#") 
+<!-- placeholder image -->
+
+## Join our Meetup
+All the PyData NYC Meetup events are first announced on -> [![](assets/meetup.svg){width=10%}](https://www.meetup.com/pydatanyc/)! 
+
+
+
+## Talk
+PyData NYC can only become a successful event with your involvement! We are a community driven event and we love seeing new faces.
+
+Are you interested in giving a talk in our meetup events? We would love to have you!
+Sign up [here](https://forms.gle/vkab3vjLmwHgrrHU9)
+
+## Connect
+[Social Media Platforms](pages/Social.qmd)
+
+## Upcoming Events
+[Publishing Jupyter Notebooks with Quarto + Community Talk Night](https://www.meetup.com/pydatanyc/events/293373920/)
+
+

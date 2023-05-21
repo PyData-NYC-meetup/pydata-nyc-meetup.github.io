@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: assets/pydata-logo-final.png
+  title: "PyDataNYCMeetup"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - pages/social.qmd
+      - href: https://numfocus.org/code-of-conduct
+        text: Code of Conduct
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+
