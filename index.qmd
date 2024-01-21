@@ -18,7 +18,7 @@ Are you interested in giving a talk in our meetup events? We would love to have 
 Sign up [here](https://forms.gle/vkab3vjLmwHgrrHU9)
 
 ## Connect
-[Social Media Platforms](pages/Social.qmd)
+[Social Media Platforms](https://linktr.ee/pydatanyc)
 
 ## Upcoming Events
 [Publishing Jupyter Notebooks with Quarto + Community Talk Night](https://www.meetup.com/pydatanyc/events/293373920/)
