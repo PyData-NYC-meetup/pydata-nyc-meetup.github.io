@@ -21,6 +21,5 @@ Sign up [here](https://forms.gle/vkab3vjLmwHgrrHU9)
 [Social Media Platforms](https://linktr.ee/pydatanyc)
 
 ## Upcoming Events
-[Publishing Jupyter Notebooks with Quarto + Community Talk Night](https://www.meetup.com/pydatanyc/events/293373920/)
-
+Our upcoming events are currently being planned. Please join us on [Meetup](https://www.meetup.com/pydatanyc/) to stay updated with the latest event information!
 
