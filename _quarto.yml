@@ -4,11 +4,11 @@ project:
 
 website:
   favicon: assets/pydata-logo-final.png
-  title: "PyDataNYCMeetup"
+  title: "PyData NYC"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        icon: house-heart
       - about.qmd
       - pages/social.qmd
       - href: https://numfocus.org/code-of-conduct
