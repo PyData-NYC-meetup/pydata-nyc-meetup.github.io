@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "pages/social.html",
+    "href": "pages/social.html",
+    "title": "LinkTree",
+    "section": "",
+    "text": "Join the  Group\nFollow us on \nFollow us on \nJoin our  Community"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -26,13 +33,6 @@
     "title": "About",
     "section": "About NumFOCUS",
     "text": "About NumFOCUS\nNumFOCUS is a nonprofit charity promoting open practices in research, data, and scientific computing."
-  },
-  {
-    "objectID": "pages/social.html",
-    "href": "pages/social.html",
-    "title": "LinkTree",
-    "section": "",
-    "text": "Join the  Group\nFollow us on \nFollow us on \nJoin our  Community"
   },
   {
     "objectID": "index.html#join-our-meetup",
