@@ -3,10 +3,11 @@ This is our official repository.
 
 This website is built using [Quarto](https://quarto.org/).  An open-source scientific and technical publishing system that not only enables publishing reproducible, production quality articles, presentations, dashboards, websites, blogs, and books in HTML, PDF, MS Word, ePub, and more--it can also be used to build websites!
 
-To contribute, make a PR and request a review.
+## Contributions:
+- Add ideas and suggestions in the Issue tracker.
+- If you have bandwidth to help implement change, please make a PR and request a review.
 
 ## Quarto - local editing
-
 For those interested in developing locally and who haven't used Quarto before, its possible to preview your updates locally.  To do this:
 1. Clone the repository from GitHub, I did this in Windows cmd.exe.  You may need to install an SSH key to facilitate git commands, there are instructions [here](https://github.com/settings/keys).
 2. After adding SSH key use `git clone git@github.com:PyData-NYC-meetup/pydata-nyc-meetup.github.io.git` to copy the files to your local disk.
