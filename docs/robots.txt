@@ -1,1 +1,0 @@
-Sitemap: https://PyData-NYC-meetup.github.io/pydata-nyc-meetup.github.io/sitemap.xml
