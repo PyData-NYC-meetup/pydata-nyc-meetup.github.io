@@ -25,7 +25,7 @@
     "href": "index.html#upcoming-events",
     "title": "PyDataNYC",
     "section": "Upcoming Events",
-    "text": "Upcoming Events\nPublishing Jupyter Notebooks with Quarto + Community Talk Night"
+    "text": "Upcoming Events\nOur upcoming events are currently being planned. Please join us on Meetup to stay updated with the latest event information!"
   },
   {
     "objectID": "about.html",
@@ -61,5 +61,19 @@
     "title": "LinkTree",
     "section": "",
     "text": "Join the  Group\nFollow us on \nFollow us on \nJoin our  Community"
+  },
+  {
+    "objectID": "index.html#become-a-sponsor-or-speaker",
+    "href": "index.html#become-a-sponsor-or-speaker",
+    "title": "PyDataNYC",
+    "section": "Become a Sponsor or Speaker",
+    "text": "Become a Sponsor or Speaker\nPyData NYC can only become a successful event with your involvement! We are a community-driven event, and we love seeing new faces. Whether you’re interested in giving a talk or sponsoring our event, we’d love to hear from you!\n\nFor Speakers: If you have an exciting project, research, or technology to share, we welcome you to speak at our meetup events.\nFor Sponsors: Supporting our meetups can help foster the growth of the data science community, gain exposure, and connect with industry experts\n\nFill out our interest form to get started: Sign up as a sponsor or speaker"
+  },
+  {
+    "objectID": "index.html#become-a-speaker-or-sponsor",
+    "href": "index.html#become-a-speaker-or-sponsor",
+    "title": "PyDataNYC",
+    "section": "Become a Speaker or Sponsor",
+    "text": "Become a Speaker or Sponsor\nPyData NYC can only become a successful event with your involvement! We are a community-driven event, and we love seeing new faces. Whether you’re interested in giving a talk or sponsoring our event, we’d love to hear from you!\n\nFor Speakers: If you have an exciting project, research, or technology to share, we welcome you to speak at our meetup events.\nFor Sponsors: Supporting our meetups can help foster the growth of the data science community, gain exposure, and connect with industry experts\n\nFill out our interest form to get started: Sign up as a sponsor or speaker"
   }
 ]
