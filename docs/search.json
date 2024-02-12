@@ -61,5 +61,33 @@
     "title": "PyDataNYC",
     "section": "Upcoming Events",
     "text": "Upcoming Events\nOur upcoming events are currently being planned. Please join us on Meetup to stay updated with the latest event information!"
+  },
+  {
+    "objectID": "pages/resources.html",
+    "href": "pages/resources.html",
+    "title": "Learning Resources",
+    "section": "",
+    "text": "Author/Owner\nTitle\nPyData 2023 Sponsor?\nDescription\n\n\n\n\nO’Reilly\nGen AI resources\nTrue\nA collection of resources available through the learning platform\n\n\nO’Reilly\nOpen Books\nTrue\nBooks with open copyright\n\n\nLaunch School\nIntroduction to Programming with Python\n\n\n\n\nLaunch School\nObject Oriented Programming with Python"
+  },
+  {
+    "objectID": "pages/resources.html#books",
+    "href": "pages/resources.html#books",
+    "title": "Learning Resources",
+    "section": "",
+    "text": "Author/Owner\nTitle\nPyData 2023 Sponsor?\nDescription\n\n\n\n\nO’Reilly\nGen AI resources\nTrue\nA collection of resources available through the learning platform\n\n\nO’Reilly\nOpen Books\nTrue\nBooks with open copyright\n\n\nLaunch School\nIntroduction to Programming with Python\n\n\n\n\nLaunch School\nObject Oriented Programming with Python"
+  },
+  {
+    "objectID": "pages/resources.html#free-courses",
+    "href": "pages/resources.html#free-courses",
+    "title": "Learning Resources",
+    "section": "Free Courses",
+    "text": "Free Courses\n\n\n\nAuthor/Owner\nDescription\nPyData 2023 Sponsor?\nPyData 2024 Meetup Sponsor?\n\n\n\n\nMicrosoft\nMicrosoft Azure AI Fundamentals: Generative AI\nTrue\n\n\n\nMicrosoft\nAI Learning Hub\nTrue\n\n\n\nGoogle\nGenerative AI for Developers Learning Path\nTrue\n\n\n\nGoogle\nIntroduction to Generative AI Learning Path\nTrue\n\n\n\nIBM\nGenerative AI for Developers\n\nTrue"
+  },
+  {
+    "objectID": "pages/resources.html#learning-platforms",
+    "href": "pages/resources.html#learning-platforms",
+    "title": "Learning Resources",
+    "section": "Learning Platforms",
+    "text": "Learning Platforms\nTBD"
   }
 ]

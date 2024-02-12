@@ -1,0 +1,24 @@
+---
+title: "Learning Resources"
+---
+
+## Books
+| **_Author/Owner_** 	| **_Title_**                                                                    	| PyData 2023 Sponsor? 	| **_Description_**                                                 	|
+|--------------------	|--------------------------------------------------------------------------------	|----------------------	|-------------------------------------------------------------------	|
+| O'Reilly           	| [Gen AI resources](https://www.oreilly.com/online-learning/generative-ai.html) 	| True                 	| A collection of resources available through the learning platform 	|
+| O'Reilly           	| [Open Books](https://www.oreilly.com/openbook/)                                	| True                 	| Books with open copyright                                         	|
+| Launch School      	| [Introduction to Programming with Python](https://launchschool.com/books/python)   |                 	|                             	|
+| Launch School      	| [Object Oriented Programming with Python](https://launchschool.com/books/oo_python)   |                 	|                           	|
+
+## Free Courses
+| **_Author/Owner_** 	| **_Description_**                                                                                                              	| PyData 2023 Sponsor? 	| PyData 2024 Meetup Sponsor? 	|
+|--------------------	|--------------------------------------------------------------------------------------------------------------------------------	|----------------------	|-----------------------------	|
+| Microsoft          	| [Microsoft Azure AI Fundamentals: Generative AI](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/) 	| True                 	|                             	|
+| Microsoft          	| [AI Learning Hub](https://learn.microsoft.com/en-us/ai/)                                                                       	| True                 	|                             	|
+| Google             	| [Generative AI for Developers Learning Path](https://www.cloudskillsboost.google/paths/183)                                    	| True                 	|                             	|
+| Google             	| [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)                                   	| True                 	|                             	|
+| IBM                	| [Generative AI for Developers](https://developer.ibm.com/generative-ai-for-developers?cm_sp=ibmdev--developer--GenAI)          	|                      	| True                        	|
+
+## Learning Platforms
+TBD
+
