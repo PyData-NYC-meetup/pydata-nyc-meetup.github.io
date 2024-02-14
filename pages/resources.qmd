@@ -19,6 +19,9 @@ title: "Learning Resources"
 | Google             	| [Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)                                   	| True                 	|                             	|
 | IBM                	| [Generative AI for Developers](https://developer.ibm.com/generative-ai-for-developers?cm_sp=ibmdev--developer--GenAI)          	|                      	| True                        	|
 
-## Learning Platforms
-TBD
-
+## Learning Platforms (Paid)
+| **_Author/Owner_** 	| **_Description_**           | 
+|--------------------	|----------------------------------- |
+| Packt       | [Packt Platform](https://www.packtpub.com/) 	| 
+| Pearson    	| [PearsonPlus](https://www.pearson.com/en-us/pearsonplus.html) | 
+| O'Reilly   	| [O'Reilly Online Learning Platform](https://www.oreilly.com/online-learning/) | 
