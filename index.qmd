@@ -1,15 +1,16 @@
 ---
-title: "PyDataNYC"
+title: "Home"
 ---
 
-### Welcome to the PyData NYC Meetup website!
+### Welcome to PyData NYC [![](assets/meetup.svg){width=10%}](https://www.meetup.com/pydatanyc/){fig-alt="Meetup logo and link"}!
 [![](assets/pydata2022_conf.jpg){width=70% fig-align="center"}]("#") 
 <!-- placeholder image -->
 
 ## Join our Meetup
-All the PyData NYC Meetup events are first announced on -> [![](assets/meetup.svg){width=10%}](https://www.meetup.com/pydatanyc/)! 
+All the PyData NYC Meetup events are first announced on -> [![](assets/meetup.svg){width=10%}](https://www.meetup.com/pydatanyc/){fig-alt="Meetup logo and link"}! 
 
-
+### Next event:
+[LLM & Deep Learning Tutorials, sponsored by LastMile AI 🤖 @ IBM ](https://www.meetup.com/pydatanyc/events/299507856/)
 
 ## Become a Speaker or Sponsor
 
@@ -20,11 +21,3 @@ PyData NYC can only become a successful event with your involvement! We are a co
 - **For Sponsors:** Supporting our meetups can help foster the growth of the data science community, gain exposure, and connect with industry experts
 
 Fill out our interest form to get started: [Sign up as a sponsor or speaker](https://docs.google.com/forms/d/e/1FAIpQLSdPgj22St-VAw-el_LGImbWUrlff3EXfm6ghlCrYcb9_2G4-w/viewform)
-
-
-## Connect
-[Social Media Platforms](https://linktr.ee/pydatanyc)
-
-## Upcoming Events
-Our upcoming events are currently being planned. Please join us on [Meetup](https://www.meetup.com/pydatanyc/) to stay updated with the latest event information!
-

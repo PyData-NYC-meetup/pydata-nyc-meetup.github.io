@@ -1,16 +1,17 @@
 ---
 title: "About"
 ---
-## [![](assets/pydata-logo-final.png){width=20% fig-align="center"}](https://pydata.org/)
+## [![](../assets/pydata-logo-final.png){width=20% fig-align="center"}](https://pydata.org/)
 
 PyData is educational program of NumFOCUS, a 501(c)(3) nonprofit charity. The NYC chapter is one of many PyData chapters around the Globe is a local PyData Chapter in New York City. 
 
 ## Our Mission
 PyData provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization. PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.
 
+
 We aim to be an accessible, community-driven conference, with novice to advanced level presentations. PyData tutorials and talks bring attendees the latest project features along with cutting-edge use cases.
 
 ## About NumFOCUS
 NumFOCUS is a nonprofit charity promoting open practices in research, data, and scientific computing.
 
-[![](assets/numfocus.png)](https://numfocus.org)
+[![](../assets/numfocus.png)](https://numfocus.org)

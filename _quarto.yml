@@ -4,13 +4,17 @@ project:
 
 website:
   favicon: assets/pydata-logo-final.png
-  title: "PyData NYC"
+  title: "PyData nyc"
+  sidebar:
+    style: "docked"
+    search: true
+          
   navbar:
     left:
       - href: index.qmd
         icon: house-heart
-      - about.qmd
-      - pages/social.qmd
+      - href: pages/about.qmd
+        text: About
       - href: https://numfocus.org/code-of-conduct
         text: Code of Conduct
       - href: pages/resources.qmd
@@ -30,7 +34,8 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
-    toc: true
+    toc: false
+    page-layout: article
 
 execute:
   freeze: auto
