@@ -1,6 +1,11 @@
 ---
 title: "Learning Resources"
 ---
+## Jobs
+| **_Link_**                                                           	|
+|---------------------------------------------------------------------	|
+| (ODSC - EAST) [Gen AI resources](https://jobs.opendatascience.com/) 	|
+
 
 ## Books
 | **_Author/Owner_** 	| **_Title_**                                                                    	| PyData 2023 Sponsor? 	| **_Description_**                                                 	|
