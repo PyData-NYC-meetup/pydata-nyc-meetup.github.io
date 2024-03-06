@@ -1,12 +1,6 @@
 ---
 title: "Learning Resources"
 ---
-## Jobs
-| **_Link_**                                                           	|
-|---------------------------------------------------------------------	|
-| (ODSC - EAST) [Gen AI resources](https://jobs.opendatascience.com/) 	|
-
-
 ## Books
 | **_Author/Owner_** 	| **_Title_**                                                                    	| PyData 2023 Sponsor? 	| **_Description_**                                                 	|
 |--------------------	|--------------------------------------------------------------------------------	|----------------------	|-------------------------------------------------------------------	|
@@ -30,3 +24,9 @@ title: "Learning Resources"
 | Packt       | [Packt Platform](https://www.packtpub.com/) 	| 
 | Pearson    	| [PearsonPlus](https://www.pearson.com/en-us/pearsonplus.html) | 
 | O'Reilly   	| [O'Reilly Online Learning Platform](https://www.oreilly.com/online-learning/) | 
+
+## Jobs
+| **_Link_**                                                           	|
+|---------------------------------------------------------------------	|
+| (ODSC - EAST) [Gen AI resources](https://jobs.opendatascience.com/) 	|
+
