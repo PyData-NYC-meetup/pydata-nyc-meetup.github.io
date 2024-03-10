@@ -1,5 +1,5 @@
 ---
-title: "Learning Resources"
+title: "Resources"
 ---
 ## Books
 | **_Author/Owner_** 	| **_Title_**                                                                    	| PyData 2023 Sponsor? 	| **_Description_**                                                 	|
