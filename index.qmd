@@ -10,6 +10,9 @@ title: "Home"
 All the PyData NYC Meetup events are first announced on -> [![](assets/meetup.svg){width=10%}](https://www.meetup.com/pydatanyc/){fig-alt="Meetup logo and link"}! 
 
 ### Next event:
+[Time Series Forecasting 📈 @ Microsoft ](https://www.meetup.com/pydatanyc/events/300039833/)
+
+### Past events:
 [LLM & Deep Learning Tutorials, sponsored by LastMile AI 🤖 @ IBM ](https://www.meetup.com/pydatanyc/events/299507856/)
 
 ## Become a Speaker or Sponsor
