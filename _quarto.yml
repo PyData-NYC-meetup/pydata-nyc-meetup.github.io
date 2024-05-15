@@ -20,6 +20,7 @@ website:
       - href: https://numfocus.org/code-of-conduct
         text: Code of Conduct
       - href: pages/resources.qmd
+        text: Resources
     tools:
       - text: Meetup
         href: https://www.meetup.com/pydatanyc/
