@@ -1,0 +1,26 @@
+---
+title: Previous Events
+---
+
+At PyData NYC we love hosting events to meet our diverse and knowledgeable community. We aim to host events on a monthly basis and post them on our [![](/assets/meetup.svg){width=10%}](https://www.meetup.com/pydatanyc/){fig-alt="Meetup logo and link"}
+ page. All our events are free and we would love to see as many of you as possible!
+
+Below are some of our previous events so you can get a taste of what is instore.
+
+## Time Series Forecasting - Jorn Mossel
+
+Time series problems, such as sales forecasting, energy demand, and peak server load predictions, are widespread in data science. This tutorial offers an introduction to time series, demonstrating techniques and available Python packages for analysis.
+
+{{< video https://www.youtube.com/watch?v=Qtk_SDNGWXs&t=2s >}}
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Qtk_SDNGWXs&t=2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+<!-- ### Photos -->
+
+<!-- ![Event 1 Photo 1](path/to/photo1.jpg)
+![Event 1 Photo 2](path/to/photo2.jpg) -->
+
+## PyData Conference 2023
+
+Following is a preview of our [YouTube Playlist](https://www.youtube.com/playlist?list=PLGVZCDnMOq0o79mT1hHyqtFDSNzXXSYQM) of the wide range of events we host in our annual conference in November. We hope you look out for our ticket release later this year.
+
+{{< video https://www.youtube.com/watch?v=dhxRO6HdSh0&list=PLGVZCDnMOq0o79mT1hHyqtFDSNzXXSYQM&index=35 >}}
