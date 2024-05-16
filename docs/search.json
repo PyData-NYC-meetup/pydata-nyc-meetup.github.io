@@ -39,7 +39,7 @@
     "href": "index.html#join-our-meetup",
     "title": "Home",
     "section": "Join our Meetup",
-    "text": "Join our Meetup\nAll the PyData NYC Meetup events are first announced on -&gt; !\n\nNext event:\nTime Series Forecasting 📈 @ Microsoft\n\n\nPast events:\nLLM & Deep Learning Tutorials, sponsored by LastMile AI 🤖 @ IBM"
+    "text": "Join our Meetup\nAll the PyData NYC Meetup events are first announced on -&gt; !\n\nNext event:\nJoin here and turn notifications on to be the first to find out about our events\n\n\nPast events:\nLLMOps with Hopsworks and Modal Labs 🧪 @ Microsoft\nTime Series Forecasting 📈 @ Microsoft\nLLM & Deep Learning Tutorials, sponsored by LastMile AI 🤖 @ IBM"
   },
   {
     "objectID": "index.html#become-a-speaker-or-sponsor",
@@ -75,5 +75,12 @@
     "title": "About",
     "section": "About NumFOCUS",
     "text": "About NumFOCUS\nNumFOCUS is a nonprofit charity promoting open practices in research, data, and scientific computing."
+  },
+  {
+    "objectID": "pages/code_of_conduct.html#a-title",
+    "href": "pages/code_of_conduct.html#a-title",
+    "title": "PyData nyc",
+    "section": "A title",
+    "text": "A title"
   }
 ]
