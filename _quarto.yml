@@ -4,7 +4,7 @@ project:
 
 website:
   favicon: assets/pydata-logo-final.png
-  title: "PyData nyc"
+  title: "PyData NYC"
   sidebar:
     style: "docked"
     search: true
@@ -18,9 +18,14 @@ website:
       - href: pages/code_of_conduct.qmd
         text: Code of Conduct
       - href: pages/resources.qmd
+        text: Resources
     tools:
-      - text: Meetup
+      - icon: chat-fill
         href: https://www.meetup.com/pydatanyc/
+        text: Meetup
+      - icon: youtube
+        href: https://www.youtube.com/@PyDataNYC
+        text: YouTube 
       - icon: linkedin
         href: https://www.linkedin.com/company/pydata-nyc/
       - icon: twitter-x
