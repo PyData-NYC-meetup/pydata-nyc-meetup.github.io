@@ -16,3 +16,4 @@ For those interested in developing locally and who haven't used Quarto before, i
 5. Open a *.qmd file (I think qmd stands for Quarto MarkDown?) - e.g. about.qmd or index.qmd
 6. Click the "Preview" button near the top (see screenshot 1) ![image](https://github.com/PyData-NYC-meetup/pydata-nyc-meetup.github.io/assets/51715345/12943340-b693-4ba2-8c15-acf1667bc8d6)
 7. This will compile the changes and then output a preview in a split window (see screenshot 2) ![image](https://github.com/PyData-NYC-meetup/pydata-nyc-meetup.github.io/assets/51715345/683bbbd4-bd04-4761-a16d-9023fbf0de8b)
+8. To render Quarto content use the following command `quarto render foo.qmd --to html
