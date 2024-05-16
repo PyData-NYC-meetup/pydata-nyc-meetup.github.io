@@ -19,8 +19,14 @@ website:
         text: Code of Conduct
       - href: pages/resources.qmd
         text: Resources
-      - href: https://docs.google.com/forms/d/e/1FAIpQLSdPgj22St-VAw-el_LGImbWUrlff3EXfm6ghlCrYcb9_2G4-w/viewform
-        text: Contact Us
+      - text: Getting Involved
+        menu: 
+          - text: Speaking
+            href: https://docs.google.com/forms/d/e/1FAIpQLSdPgj22St-VAw-el_LGImbWUrlff3EXfm6ghlCrYcb9_2G4-w/viewform
+          - text: Sponsorship
+            href: https://docs.google.com/forms/d/e/1FAIpQLSdPgj22St-VAw-el_LGImbWUrlff3EXfm6ghlCrYcb9_2G4-w/viewform
+          - text: Volunteering
+            href: mailto:nyc-meetup@pydata.org        
         
     tools:
       - icon: chat-fill
