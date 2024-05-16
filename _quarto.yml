@@ -22,12 +22,8 @@ website:
       - href: pages/resources.qmd
         text: Resources
     tools:
-      - icon: chat-fill
+      - text: Meetup
         href: https://www.meetup.com/pydatanyc/
-        text: Meetup
-      - icon: youtube
-        href: https://www.youtube.com/@PyDataNYC
-        text: YouTube 
       - icon: linkedin
         href: https://www.linkedin.com/company/pydata-nyc/
       - icon: twitter-x
