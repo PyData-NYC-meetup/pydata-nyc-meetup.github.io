@@ -15,7 +15,7 @@ website:
         icon: house-heart
       - href: pages/about.qmd
         text: About
-      - href: https://numfocus.org/code-of-conduct
+      - href: pages/code_of_conduct.qmd
         text: Code of Conduct
       - href: pages/resources.qmd
     tools:
