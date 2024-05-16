@@ -18,6 +18,8 @@ website:
       - href: https://numfocus.org/code-of-conduct
         text: Code of Conduct
       - href: pages/resources.qmd
+      - href: https://docs.google.com/forms/d/e/1FAIpQLSdPgj22St-VAw-el_LGImbWUrlff3EXfm6ghlCrYcb9_2G4-w/viewform
+        text: Contact Us
     tools:
       - text: Meetup
         href: https://www.meetup.com/pydatanyc/
