@@ -3,6 +3,9 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: G-E9WH3MHMF6
+  cookie-consent:
+    style: simple
   favicon: assets/pydata-logo-final.png
   title: "PyData NYC"
   sidebar:
