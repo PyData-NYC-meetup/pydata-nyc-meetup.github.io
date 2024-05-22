@@ -10,7 +10,7 @@ title: "Home"
 All the PyData NYC Meetup events are first announced on -> [![](assets/meetup.svg){width=10%}](https://www.meetup.com/pydatanyc/){fig-alt="Meetup logo and link"}! 
 
 ### Next event:
-[Join here and turn notifications on to be the first to find out about our events](https://www.meetup.com/pydatanyc/)
+[Retrieval Augmented Generation and Multimodal Machine Learning](https://www.meetup.com/pydatanyc/events/301135372/)
 
 ### Past events:
 
