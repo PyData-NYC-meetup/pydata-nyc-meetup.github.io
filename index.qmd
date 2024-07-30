@@ -10,9 +10,14 @@ title: "Home"
 All the PyData NYC Meetup events are first announced on -> [![](assets/meetup.svg){width=10%}](https://www.meetup.com/pydatanyc/){fig-alt="Meetup logo and link"}! 
 
 ### Next event:
-[Vector Databases and Machine Learning Paradigms](https://www.meetup.com/pydatanyc/events/301755874/)
+\
+[Building Agentic RAG and Scaling Vector Search](https://www.meetup.com/pydatanyc/events/302523081/?%2F=)
+
 
 ### Past events:
+[Vector Databases and Machine Learning Paradigms](https://www.meetup.com/pydatanyc/events/301755874/)
+
+
 [Retrieval Augmented Generation and Multimodal Machine Learning](https://www.meetup.com/pydatanyc/events/301135372/)
 
 [LLMOps with Hopsworks and Modal Labs 🧪 @ Microsoft ](https://www.meetup.com/pydatanyc/events/300430791/)
