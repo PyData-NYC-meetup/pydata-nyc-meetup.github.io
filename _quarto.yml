@@ -32,7 +32,9 @@ website:
             href: https://docs.google.com/forms/d/e/1FAIpQLSdPgj22St-VAw-el_LGImbWUrlff3EXfm6ghlCrYcb9_2G4-w/viewform
           - text: Volunteering
             href: mailto:nyc-meetup@pydata.org        
-        
+      - href: https://pydata.org/nyc2024/
+        text: PyData NYC Conference 2024
+
     tools:
       - icon: chat-fill
         href: https://www.meetup.com/pydatanyc/
