@@ -31,9 +31,3 @@ title: "Resources"
 | Packt       | [Packt Platform](https://www.packtpub.com/) 	| 
 | Pearson    	| [PearsonPlus](https://www.pearson.com/en-us/pearsonplus.html) | 
 | O'Reilly   	| [O'Reilly Online Learning Platform](https://www.oreilly.com/online-learning/) | 
-
-## Jobs
-| **_Link_**                                                           	|
-|---------------------------------------------------------------------	|
-| (ODSC - EAST) [Gen AI resources](https://jobs.opendatascience.com/) 	|
-
