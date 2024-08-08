@@ -18,12 +18,14 @@ website:
         icon: house-heart
       - href: pages/about.qmd
         text: About
-      - href: pages/previous-events.qmd
-        text: Previous Events
-      - href: pages/code_of_conduct.qmd
-        text: Code of Conduct
-      - href: pages/resources.qmd
-        text: Resources
+      - text: Resources
+        menu: 
+          - href: pages/sponsor_resources.qmd
+            text: Jobs, Books and Courses
+          - href: pages/previous-events.qmd
+            text: Previous Events
+          - href: pages/code_of_conduct.qmd
+            text: Code of Conduct
       - text: Getting Involved
         menu: 
           - text: Speaking
