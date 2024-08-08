@@ -110,5 +110,26 @@
     "title": "Resources",
     "section": "",
     "text": "\" **scrolling=\"no\"** title=\"Webpage example\" style=\"width: 100%; height: 100%;\"&gt;"
+  },
+  {
+    "objectID": "pages/sponsor_resources.html#books",
+    "href": "pages/sponsor_resources.html#books",
+    "title": "Resources",
+    "section": "Books",
+    "text": "Books\n\n\n\nAuthor/Owner\nTitle\nPyData 2023 Sponsor?\nDescription\n\n\n\n\nO’Reilly\nGen AI resources\nTrue\nA collection of resources available through the learning platform\n\n\nO’Reilly\nOpen Books\nTrue\nBooks with open copyright\n\n\nLaunch School\nIntroduction to Programming with Python\n\n\n\n\nLaunch School\nObject Oriented Programming with Python"
+  },
+  {
+    "objectID": "pages/sponsor_resources.html#free-courses",
+    "href": "pages/sponsor_resources.html#free-courses",
+    "title": "Resources",
+    "section": "Free Courses",
+    "text": "Free Courses\n\n\n\nAuthor/Owner\nDescription\nPyData 2023 Sponsor?\nPyData 2024 Meetup Sponsor?\n\n\n\n\nMicrosoft\nMicrosoft Azure AI Fundamentals: Generative AI\nTrue\n\n\n\nMicrosoft\nAI Learning Hub\nTrue\n\n\n\nGoogle\nGenerative AI for Developers Learning Path\nTrue\n\n\n\nGoogle\nIntroduction to Generative AI Learning Path\nTrue\n\n\n\nIBM\nGenerative AI for Developers\n\nTrue"
+  },
+  {
+    "objectID": "pages/sponsor_resources.html#learning-platforms-paid",
+    "href": "pages/sponsor_resources.html#learning-platforms-paid",
+    "title": "Resources",
+    "section": "Learning Platforms (Paid)",
+    "text": "Learning Platforms (Paid)\n\n\n\nAuthor/Owner\nDescription\n\n\n\n\nPackt\nPackt Platform\n\n\nPearson\nPearsonPlus\n\n\nO’Reilly\nO’Reilly Online Learning Platform"
   }
 ]
