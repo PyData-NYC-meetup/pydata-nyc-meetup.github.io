@@ -9,14 +9,13 @@ title: "Home"
 ## Join our Meetup
 All the PyData NYC Meetup events are first announced on -> [![](assets/meetup.svg){width=10%}](https://www.meetup.com/pydatanyc/){fig-alt="Meetup logo and link"}! 
 
-### Next event:
-\
-[Building Agentic RAG and Scaling Vector Search](https://www.meetup.com/pydatanyc/events/302523081/?%2F=)
+<!-- ### Next event: -->
 
 
 ### Past events:
-[Vector Databases and Machine Learning Paradigms](https://www.meetup.com/pydatanyc/events/301755874/)
+[Building Agentic RAG and Scaling Vector Search](https://www.meetup.com/pydatanyc/events/302523081/?%2F=)
 
+[Vector Databases and Machine Learning Paradigms](https://www.meetup.com/pydatanyc/events/301755874/)
 
 [Retrieval Augmented Generation and Multimodal Machine Learning](https://www.meetup.com/pydatanyc/events/301135372/)
 
